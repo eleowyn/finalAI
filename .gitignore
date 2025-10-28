@@ -1,0 +1,24 @@
+# === Virtual Environment ===
+venv/
+.venv/
+.env
+
+# === Python Cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Model & Dataset (opsional, jika ada) ===
+models/
+data/
+dataset/
