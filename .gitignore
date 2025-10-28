@@ -19,6 +19,5 @@ Thumbs.db
 desktop.ini
 
 # === Model & Dataset (opsional, jika ada) ===
-models/
 data/
 dataset/
